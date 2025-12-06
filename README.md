@@ -81,6 +81,21 @@ streamlit run deepfake_app.py
 
 The app will open in your browser automatically.
 ```
+
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot1.png" width="600">
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot2.png" width="600">
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot3.png" width="600">
+</p>
+
 📌 Future Enhancements
 
 • Add video deepfake detection
