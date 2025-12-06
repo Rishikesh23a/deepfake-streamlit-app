@@ -93,8 +93,12 @@ The app will open in your browser automatically.
 
 • Add face detection + ROI processing
 
+```
 👨‍💻 Developer
 
 Rushikesh Sable
+
 MIT AOE College
+
 📧 rushikeshsable9850@gmail.com
+```
