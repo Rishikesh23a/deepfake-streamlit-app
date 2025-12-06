@@ -51,5 +51,17 @@ The app is deployed using **Streamlit**, making it easy to run locally or deploy
 ---
 
 ## 📁 Folder Structure
+```
+deepfake_Photo_streamlit_app/
+│
+├─ ml_artifacts/
+│ └─ model.pkl # Trained ML model
+│
+├─ deepfake_app.py # Streamlit App
+├─ requirements.txt # Dependencies
+├─ .gitattributes
+└─ README.md
+```
+
 
 
