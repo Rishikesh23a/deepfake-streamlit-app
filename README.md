@@ -81,3 +81,20 @@ streamlit run deepfake_app.py
 
 The app will open in your browser automatically.
 ```
+📌 Future Enhancements
+
+• Add video deepfake detection
+
+• Train CNN model for better accuracy
+
+• Deploy online using Streamlit Cloud / Render
+
+• Add explainability (GradCam / Heatmap)
+
+• Add face detection + ROI processing
+
+👨‍💻 Developer
+
+Rushikesh Sable
+MIT AOE College
+📧 rushikeshsable9850@gmail.com
