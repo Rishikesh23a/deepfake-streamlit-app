@@ -85,16 +85,17 @@ The app will open in your browser automatically.
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="Screenshot 2025-12-06 185030.png" width="600">
+  <img src="https://raw.githubusercontent.com/Rishikesh23a/deepfake_Photo_streamlit_app/main/screenshots/Screenshot%202025-12-06%20184938.png" width="600">
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot2.png" width="600">
+  <img src="https://raw.githubusercontent.com/Rishikesh23a/deepfake_Photo_streamlit_app/main/screenshots/Screenshot%202025-12-06%20185018.png" width="600">
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot3.png" width="600">
+  <img src="https://raw.githubusercontent.com/Rishikesh23a/deepfake_Photo_streamlit_app/main/screenshots/Screenshot%202025-12-06%20185030.png" width="600">
 </p>
+
 
 📌 Future Enhancements
 
