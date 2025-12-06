@@ -62,6 +62,21 @@ deepfake_Photo_streamlit_app/
 ├─ .gitattributes
 └─ README.md
 ```
+## ▶️ Run the App 
+
+https://deepfake-photodetector.streamlit.app/
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Rishikesh23a/deepfake_Photo_streamlit_app.git
+cd deepfake_Photo_streamlit_app
+
+2. Install Requirements
+pip install -r requirements.txt
+
+3. Run Streamlit App
+streamlit run deepfake_app.py
 
 
+The app will open in your browser automatically.
 
