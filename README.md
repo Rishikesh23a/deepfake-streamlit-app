@@ -85,7 +85,7 @@ The app will open in your browser automatically.
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="Screenshot 2025-12-06 185030" width="600">
+  <img src="Screenshot 2025-12-06 185030.png" width="600">
 </p>
 
 <p align="center">
