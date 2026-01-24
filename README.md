@@ -5,6 +5,13 @@ A lightweight and efficient Deepfake Image Detection Web App built using <b>Stre
 Upload an image → the model analyzes it → gives you the probability of the image being REAL or FAKE.
 </p>
 
+<p align="center">
+  <img src="./screenshots/deepfake_streamlit_ui.png"
+       alt="Deepfake Photo Detection Streamlit App"
+       width="850">
+</p>
+
+
 ---
 
 ## 🚀 Overview
