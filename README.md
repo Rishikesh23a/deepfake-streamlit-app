@@ -6,7 +6,7 @@ Upload an image → the model analyzes it → gives you the probability of the i
 </p>
 
 <p align="center">
-  <img src="./screenshots/deepfake_streamlit_ui.png"
+  <img src="screenshots/Screenshot 2026-01-25 013601.png"
        alt="Deepfake Photo Detection Streamlit App"
        width="850">
 </p>
